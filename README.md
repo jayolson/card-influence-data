@@ -1,7 +1,7 @@
 # Data for card influence study
 
 This is supplementary data
-for the paper "Influencing Choice Without Awareness"
+for the paper "[Influencing choice without awareness](http://www.sciencedirect.com/science/article/pii/S1053810015000057)"
 in *Consciousness and Cognition*
 (Olson, Amlani, Raz, & Rensink, 2015).
 In the study,
