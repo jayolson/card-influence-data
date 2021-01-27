@@ -64,6 +64,6 @@ It contains the columns:
 
 - nlongest:  "Each trial, one card was shown longer than all of the rest of the cards. Did you notice this?".
 
-- card#:     Card (0 to 51, e.g., 0 = Ace of Spades, 51 = King of Diamonds) in # position in stream.
+- card#:     Card (0 to 51, e.g., 0 = Ace of Spades, 51 = King of Diamonds) in # position in stream (excluding masks).
 
 - card#f:    Number of frames each card was shown (cards 1 to 10 and 37 to 46 were masks, 1 frame = 10 ms).
